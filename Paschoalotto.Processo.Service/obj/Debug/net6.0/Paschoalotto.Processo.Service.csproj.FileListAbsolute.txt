@@ -1,0 +1,17 @@
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.csproj.AssemblyReference.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.AssemblyInfoInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.AssemblyInfo.cs
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.csproj.CoreCompileInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Service.deps.json
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Service.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Service.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Model.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Model.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.csproj.CopyComplete
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\refint\Paschoalotto.Processo.Service.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\Paschoalotto.Processo.Service.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\obj\Debug\net6.0\ref\Paschoalotto.Processo.Service.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Infra.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Service\bin\Debug\net6.0\Paschoalotto.Processo.Infra.pdb

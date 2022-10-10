@@ -1,0 +1,15 @@
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\bin\Debug\net6.0\Paschoalotto.Processo.Infra.deps.json
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\bin\Debug\net6.0\Paschoalotto.Processo.Infra.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\bin\Debug\net6.0\Paschoalotto.Processo.Infra.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.csproj.AssemblyReference.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.AssemblyInfoInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.AssemblyInfo.cs
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\refint\Paschoalotto.Processo.Infra.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\ref\Paschoalotto.Processo.Infra.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\bin\Debug\net6.0\Paschoalotto.Processo.Model.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\bin\Debug\net6.0\Paschoalotto.Processo.Model.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Infra\obj\Debug\net6.0\Paschoalotto.Processo.Infra.csproj.CopyComplete
