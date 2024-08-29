@@ -1,0 +1,12 @@
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\bin\Debug\net6.0\Paschoalotto.Processo.Model.deps.json
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\bin\Debug\net6.0\Paschoalotto.Processo.Model.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\bin\Debug\net6.0\Paschoalotto.Processo.Model.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.csproj.AssemblyReference.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.AssemblyInfoInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.AssemblyInfo.cs
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.csproj.CoreCompileInputs.cache
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\refint\Paschoalotto.Processo.Model.dll
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\Paschoalotto.Processo.Model.pdb
+C:\projetos\Paschoalotto.Processo\Paschoalotto.Processo.Model\obj\Debug\net6.0\ref\Paschoalotto.Processo.Model.dll

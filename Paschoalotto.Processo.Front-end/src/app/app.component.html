@@ -1,0 +1,28 @@
+
+
+<div id = "body">
+  <div class="page-header-title">
+    <h2>Para realizar o calculo Insira os valores abaixo:</h2>
+  </div>
+  <div class="page-block">
+    <form >
+      <div id = "form">
+        <div class="form-group">
+          <label for="Divida:">Valor da divida:</label>
+          <input type="text" placeholder="Insira o valor da divida"  #divida >
+        </div>
+        <br>
+        <div class="form-group">
+          <label for="Vencimento:">Data de Vencimento:</label>
+          <input type="date" placeholder="Vencimento formato DD/MM/AAAA" #vencimento >
+        </div>
+        <br>
+        <div class="form-group">
+          <button (click) = "CalcularAcordo(divida.value,vencimento.value)"> Calcular</button>
+        </div>
+    </div>
+    </form>
+  </div>
+</div>
+
+
